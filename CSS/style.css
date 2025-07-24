@@ -1,7 +1,7 @@
 .sfondo-header {
     background-image: url(../img/pattern.png);
-    background-color: rgb(11, 149, 223) ;  
-    height: 150px;  
+    background-color: rgb(11, 149, 223);
+    height: 150px;
 }
 
 .logo {
@@ -11,7 +11,7 @@
 }
 
 .titolo {
- font-size: 40px;
+    font-size: 40px;
 }
 
 .intestazione-colonna {
@@ -28,10 +28,10 @@
 .foto-schermo {
     background-image: url(../img/monitor.jpg);
     color: rgb(255, 255, 255);
-   height: 200px;
-   background-repeat: no-repeat;
-   font-size: 22px;
-    }
+    height: 200px;
+    background-repeat: no-repeat;
+    font-size: 22px;
+}
 
 .foto-grafici {
     background-image: url(../img/graph.jpg);
@@ -44,4 +44,18 @@
 .titolo-grigio {
     color: rgb(128, 128, 128);
     font-size: 22px;
+}
+
+.testo-piccolo {
+    font-size: 12px;
+}
+
+.testo-grigio {
+    color: rgb(128, 128, 128);
+    font-size: 20px;
+}
+
+.testo-azzurro {
+    color: rgb(0, 255, 255);
+    font-size: 20px;
 }
