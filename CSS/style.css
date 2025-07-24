@@ -1,0 +1,20 @@
+.foto-schermo {
+    background-image: url(../img/monitor.jpg);
+    color: rgb(255, 255, 255);
+   height: 200px;
+   background-repeat: no-repeat;
+   font-size: 22px;
+    }
+
+.foto-grafici {
+    background-image: url(../img/graph.jpg);
+    color: rgb(255, 255, 255);
+    height: 200px;
+    background-repeat: no-repeat;
+    font-size: 22px;
+}
+
+.titolo-grigio {
+    color: rgb(128, 128, 128);
+    font-size: 22px;
+}
